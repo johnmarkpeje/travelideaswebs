@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+	background-color: #809faa;
+}
+.container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	text-align: center;
+	margin: 40px 20px 0 20px;
+}
+
+.container .heading{
+}
+
+.container .heading h3{
+	font-size: 3em;
+	font-weight: bolder;
+	border-bottom: 3px solid #222;
+}
+
+.container .heading h3 span{
+	font-weight: 100;
+
+}
